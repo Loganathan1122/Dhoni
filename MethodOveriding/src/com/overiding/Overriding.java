@@ -11,10 +11,16 @@ return 0;
 		// TODO Auto-generated method stub
 System.out.println("this is room2");
 	}
+	public static void room3() {
+		// TODO Auto-generated method stub
+System.out.println("this is room2");
+	}
 
 	public static void main(String[] args) {
 		Overriding.room1();
 		Overriding.room2();
+		Overriding.room3();
+		
 	}
 	
 }
