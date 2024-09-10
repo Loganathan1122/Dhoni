@@ -33,12 +33,18 @@ System.out.println("this is room2");
 System.out.println("this is room2");
 	}
 
+	public static void room6() {
+		// TODO Auto-generated method stub
+System.out.println("this is room2");
+	}
+	
 	public static void main(String[] args) {
 		Overriding.room1();
 		Overriding.room2();
 		Overriding.room3();
 		Overriding.room3();
 		Overriding.house();
+		Overriding.room5();
 		Overriding.room5();
 	
 		
